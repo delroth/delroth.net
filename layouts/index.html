@@ -1,0 +1,27 @@
+{{ define "main" -}}
+<div class="posts">
+    <article class="post">
+      {{ with .Site.GetPage "/about/index" }}
+        <style>h2#in-short { display: none; }</style>
+        {{ .Summary }}
+        {{ if .Truncated }}
+        <div class="read-more-link">
+            <a href="{{ .RelPermalink }}#content-start">More about me</a>
+        </div>
+        {{ end }}
+      {{ end }}
+    </article>
+    {{ range where .Paginator.Pages "Section" "eq" "posts" }}
+    <article class="post">
+        {{ partial "post/info.html" . }}
+        {{ .Summary }}
+        {{ if .Truncated }}
+        <div class="read-more-link">
+            <a href="{{ .RelPermalink }}#content-start">Read More…</a>
+        </div>
+        {{ end }}
+    </article>
+    {{- end }}
+</div>
+{{ partial "pagination.html" . }}
+{{- end }}

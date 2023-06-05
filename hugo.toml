@@ -1,0 +1,26 @@
+baseURL = '/'
+theme = ['poison', 'hugo-shortcode-gallery']
+languageCode = 'en-us'
+pluralizelisttitles = false
+
+[params]
+  brand = "delroth's homepage"
+  brand_image = "/images/avatar.png"
+  favicon = "/images/avatar.png"
+  description = "Infosec, travel, hiking, gaming, anime, and everything else in my life"
+  dark_mode = true
+
+  mastodon_url = "https://mastodon.delroth.net/@delroth"
+  github_url = "https://github.com/delroth"
+  linkedin_url = "https://www.linkedin.com/in/delrothh/"
+  email_url = "mailto:delroth@gmail.com"
+
+  rss_icon = true
+  rss_section = "posts"
+
+  sidebar_bg_color = "#202020"
+
+  menu = [
+    {Name = "About me", URL = "/about/", HasChildren = false},
+    {Name = "Posts", URL = "/posts/", HasChildren = true, Limit = 5},
+  ]
