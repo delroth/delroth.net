@@ -23,4 +23,5 @@ pluralizelisttitles = false
   menu = [
     {Name = "About me", URL = "/about/", HasChildren = false},
     {Name = "Posts", URL = "/posts/", HasChildren = true, Limit = 5},
+    {Name = "Website source code", URL = "https://github.com/delroth/delroth.net", External = true, HasChildren = false},
   ]
