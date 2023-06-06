@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://delroth.net/'
 theme = ['poison', 'hugo-shortcode-gallery']
 languageCode = 'en-us'
 pluralizelisttitles = false
