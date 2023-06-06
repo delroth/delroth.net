@@ -1,0 +1,6 @@
+layouts/*: mostly derivatives from https://github.com/lukeorth/poison, licensed
+under GPLv3. See LICENSE.GPLv3.
+
+content/*: licensed under CC-by-sa 4.0. See LICENSE.CC-by-sa.
+
+Anything else: licensed under MIT license. See LICENSE.MIT.
