@@ -2,6 +2,11 @@ baseURL = 'https://delroth.net/'
 theme = ['poison', 'hugo-shortcode-gallery']
 languageCode = 'en-us'
 pluralizelisttitles = false
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+title = "delroth's homepage"
+
+[author]
+  name = "delroth"
 
 [params]
   brand = "delroth's homepage"
