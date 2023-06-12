@@ -14,3 +14,7 @@
 .content figure img {
   margin: 0 auto;
 }
+
+.content figure figcaption {
+  text-align: center;
+}
