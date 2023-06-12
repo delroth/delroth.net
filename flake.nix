@@ -6,7 +6,7 @@
 
   outputs = { self, nixpkgs, flake-utils }: {
     overlay = final: prev: {
-      delroth-net-website = prev.callPackage ./default.nix {};
+      delroth-net-website = prev.callPackage ./default.nix { inherit self; };
     };
   } // (flake-utils.lib.eachDefaultSystem (system:
     let
