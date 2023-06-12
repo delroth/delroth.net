@@ -17,6 +17,8 @@ allowed by the license, of course!), I'm just too lazy to distribute binaries.
 
 [Download Eri HaKawai v0.1](downloads/erihakawai-0.1.tar.bz2)
 
+<!--more-->
+
 How to use (directly copied from the `README` file in the tarball):
 
 Usage:

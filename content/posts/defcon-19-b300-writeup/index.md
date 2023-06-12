@@ -32,6 +32,8 @@ contains the state of the program heap at some point during the execution. The
 .jpgs files seems to contain random data at first, which leaded us to think it
 was encrypted data we needed to decrypt.
 
+<!--more-->
+
 But first, let's decompile the bytecode. We first
 used [dex2jar](http://code.google.com/p/dex2jar/) to get a classes.jar file,
 which we unzipped to get .class Java bytecode files. Then we

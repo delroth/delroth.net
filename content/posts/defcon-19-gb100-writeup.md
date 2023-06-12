@@ -15,6 +15,8 @@ any incoming connection on the specified port, which caused us to try a lot of
 strange protocols, only to find out 4 hours later that the problem was fixed
 and was simply an HTTP server.
 
+<!--more-->
+
 On every request, the server replied a `HTTP/1.1 408 Too Slow` error code,
 followed by some fixed `Date` and `Last-Modified` headers which turned out to
 be useless. The solution to that problem was to connect to the server using the

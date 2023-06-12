@@ -26,6 +26,8 @@ Dolphin](https://github.com/dolphin/dolphin-emu), the Wii emulator (mostly in
 the `Source/Core/DiscIO` directory). Thanks a lot to all of the contributors to
 these projects.
 
+<!--more-->
+
 All of the examples from this article are given in the form of Python shell
 transcripts. If you only want a working version of the software to use at home,
 look at the third part of this article, where I'm talking about wiiodfs.
