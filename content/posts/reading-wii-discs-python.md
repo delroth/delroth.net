@@ -502,8 +502,8 @@ local folder.
 I hope you liked this article 🙂 Let's end that with links and thanks to the
 projects and people who helped me:
 
--   [Wiiodfs](https://bitbucket.org/delroth/wiiodfs/src), Mercurial repository
-    of the project
+-   [Wiiodfs](https://github.com/delroth/wiiodfs), Git repository of the
+    project
 -   [Wiibrew](http://wiibrew.org/), a great Wiki about Wii homebrew, with a lot
     of technical informations
 -   [Dolphin](http://dolphin-emu.org/), the best Wii/GC emulator, which is
