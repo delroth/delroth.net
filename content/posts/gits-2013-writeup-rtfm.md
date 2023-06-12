@@ -1,7 +1,7 @@
 ---
 title: 'GITS 2013 Writeup: RTFM (re100)'
 date: 2013-02-17T01:00:00+02:00
-tags: ["CTF", "writeup", "hacking"]
+tags: ["CTF", "writeup", "hacking", "reverse-engineering"]
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Boston Key Party crackme300 "hypercube" writeup'
 date: 2014-03-02T00:00:00+02:00
-tags: ["CTF", "writeup", "hacking"]
+tags: ["CTF", "writeup", "hacking", "reverse-engineering", "nintendo"]
 draft: false
 ---
 

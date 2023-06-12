@@ -1,7 +1,7 @@
 ---
 title: 'GITS 2013 Writeup: MysteryBox (re300)'
 date: 2013-02-17T02:00:00+02:00
-tags: ["CTF", "writeup", "hacking"]
+tags: ["CTF", "writeup", "hacking", "reverse-engineering"]
 draft: false
 ---
 

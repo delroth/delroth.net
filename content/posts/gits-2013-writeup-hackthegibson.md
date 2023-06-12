@@ -1,7 +1,7 @@
 ---
 title: 'GITS 2013 Writeup: HackTheGibson (re250)'
 date: 2013-02-17T00:00:00+02:00
-tags: ["CTF", "writeup", "hacking"]
+tags: ["CTF", "writeup", "hacking", "reverse-engineering"]
 draft: false
 ---
 
