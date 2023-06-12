@@ -10,3 +10,7 @@
 .content pre code {
   background-color: transparent !important;
 }
+
+.content figure img {
+  margin: 0 auto;
+}
