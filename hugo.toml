@@ -4,6 +4,7 @@ languageCode = 'en-us'
 pluralizelisttitles = false
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 title = "delroth's homepage"
+custom_css = ["css/custom.css"]
 
 [author]
   name = "delroth"
@@ -25,6 +26,11 @@ title = "delroth's homepage"
 
   menu = [
     {Name = "About me", URL = "/about/", HasChildren = false},
-    {Name = "Posts", URL = "/posts/", HasChildren = true, Limit = 5},
+    {Name = "Posts", URL = "/posts/", HasChildren = true, Limit = 3},
     {Name = "Website source code", URL = "https://github.com/delroth/delroth.net", External = true, HasChildren = false},
   ]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
