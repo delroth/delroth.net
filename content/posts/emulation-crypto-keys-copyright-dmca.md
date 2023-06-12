@@ -1,6 +1,7 @@
 ---
 title: "Emulators and bundling crypto keys: is it common? is it illegal?"
 date: 2023-06-05T00:00:00+02:00
+tags: ["emulation", "legal", "nintendo"]
 draft: false
 ---
 

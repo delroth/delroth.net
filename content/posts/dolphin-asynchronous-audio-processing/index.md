@@ -1,6 +1,7 @@
 ---
 title: "Why Dolphin is getting rid of asynchronous audio processing"
 date: 2013-07-10T00:00:00+02:00
+tags: ["emulation", "audio", "nintendo"]
 draft: false
 ---
 

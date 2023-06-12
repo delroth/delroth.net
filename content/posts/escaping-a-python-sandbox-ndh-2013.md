@@ -1,6 +1,7 @@
 ---
 title: 'Escaping a Python sandbox (NdH 2013 quals writeup)'
 date: 2013-03-10T00:00:00+02:00
+tags: ["CTF", "writeup", "hacking"]
 draft: false
 ---
 
