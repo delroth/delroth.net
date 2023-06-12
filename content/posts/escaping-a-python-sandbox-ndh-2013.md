@@ -38,6 +38,8 @@ l('code')(1,1,1,83,'d\x00\x00S',(None,),('None',),('self',),'stdin',
 ().__class__.__bases__[0].__subclasses__() if x.__name__ == n][0])})())
 {{< /highlight >}}
 
+<!--more-->
+
 One of the exercises, called "Meow", gave us a remote restricted Python shell
 with most builtins disabled:
 

@@ -25,6 +25,8 @@ is obviously being requested again by more and more people. This article is
 here to explain why async audio will not come back and what async audio
 actually breaks.
 
+<!--more-->
+
 *I’ll only talk about the GameCube audio emulation in this article in order to
 make things easier – but DSP HLE on GC and Wii is extremely similar, and most
 of the implementation is shared for these two consoles. I will also only talk
