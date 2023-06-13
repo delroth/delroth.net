@@ -36,7 +36,7 @@ example: *Lego Indiana Jones* or *Yu-Gi-Oh Wheelie Breaker*. Only problem: once
 those games are found to be vulnerable, they are usually not sold in retail
 shops anymore, and get resold at a huge premium second hand (since most buyers
 only buy them to jailbreak then resell just after). I don't own any of these
-bames, and after some shopping in local game stores, I don't think I could find
+games, and after some shopping in local game stores, I don't think I could find
 a copy at a non-outrageous price.
 
 I actually own only 4 Wii games at the moment: *Madworld*, *New Super Mario
