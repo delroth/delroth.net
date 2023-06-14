@@ -30,6 +30,9 @@ custom_css = ["css/custom.css"]
     {Name = "Website source code", URL = "https://github.com/delroth/delroth.net", External = true, HasChildren = false},
   ]
 
+  code_color_dark = "#ff9f9f"
+  list_color_dark = "#ccc"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

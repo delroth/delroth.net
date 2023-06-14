@@ -18,3 +18,8 @@
 .content figure figcaption {
   text-align: center;
 }
+
+.tags li a {
+  background-color: var(--code-background-color) !important;
+  color: var(--code-color) !important;
+}
