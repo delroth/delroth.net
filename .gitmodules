@@ -3,7 +3,7 @@
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
 [submodule "themes/poison"]
 	path = themes/poison
-	url = https://github.com/lukeorth/poison.git
+	url = https://github.com/delroth/poison
 [submodule "themes/hugo-shortcode-gallery"]
 	path = themes/hugo-shortcode-gallery
 	url = https://github.com/mfg92/hugo-shortcode-gallery
