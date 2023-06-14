@@ -9,7 +9,7 @@ stdenv.mkDerivation {
   nativeBuildInputs = [ hugo ];
 
   buildPhase = ''
-    hugo
+    hugo --minify
   '';
 
   installPhase = ''
