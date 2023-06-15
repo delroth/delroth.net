@@ -22,7 +22,7 @@ for my tests, and if needed fix things when I'll have to open another game DVD
 image which doesn't work. To write this article, I'm using documentation
 from [WiiBrew](http://wiibrew.org/wiki/Main_Page), a wiki about Wii homebrew
 with a lot of technical informations, and the [source code of
-Dolphin](https://github.com/dolphin/dolphin-emu), the Wii emulator (mostly in
+Dolphin](https://github.com/dolphin-emu/dolphin), the Wii emulator (mostly in
 the `Source/Core/DiscIO` directory). Thanks a lot to all of the contributors to
 these projects.
 
