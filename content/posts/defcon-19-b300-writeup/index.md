@@ -140,7 +140,7 @@ Success! Here is the image duplicated in the "1" directory:
 
 Looks like a thumbnail... well, let's look into the "2" directory. Again, two images with the same md5sum. Let's open one:
 
-{{< figure src="images/13069026130841.jpgs_1.jpg" link="13069026130841.jpgs_1.jpg" >}}
+{{< figure src="images/13069026130841.jpgs_1.jpg" link="images/13069026130841.jpgs_1.jpg" >}}
 
 And this is the key for b300: `ANDROIDSEKURITYisOXYMORON`. IMHO this was a
 really easy problem for 300 points, as long as you know Java and its ecosystem
