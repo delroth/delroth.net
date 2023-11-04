@@ -269,7 +269,8 @@ driven to completion!
 
 I'd love to hear everyone else's ideas. Do you have your own NixOS security pet
 project you'd like to see move forward? Do you think some of my ideas are off
-base? I'm posting this article to the NixOS Discourse, feel free to send your
-comments over there - or directly to me via
+base? I've posted this article to [the NixOS
+Discourse](https://discourse.nixos.org/t/my-wishlist-for-nixos-security-in-2024/34999),
+feel free to send your comments over there - or directly to me via
 [Mastodon](https://mastodon.delroth.net/@delroth) or
 [Matrix](https://matrix.to/#/@delroth:delroth.net)!
