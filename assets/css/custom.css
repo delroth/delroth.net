@@ -23,3 +23,7 @@
   background-color: var(--code-background-color) !important;
   color: var(--code-color) !important;
 }
+
+.content div.smaller pre code {
+  font-size: 70%;
+}
